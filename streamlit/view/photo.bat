@@ -1,0 +1,1 @@
+streamlit run view_photo.py
